@@ -6,3 +6,4 @@ Quiz App Basic
 
 - Create UI Quiz App
 - Suitable for beginners with flutter
+- Using getX flutter is easy
